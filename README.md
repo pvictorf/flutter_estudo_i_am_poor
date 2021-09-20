@@ -2,7 +2,7 @@
 
 Um projeto em Flutter para estudo, apesar de ser simples diversos conceitos importante foram aprendidos.
 
-## Conceitos e Apredizgem
+## Conceitos aprendidos
 
 - Conceitos básicos sobre a árvore de Widgets.
 
