@@ -23,11 +23,11 @@ Um projeto em Flutter para estudo, apesar de ser simples diversos conceitos impo
 
 ## Device
 Para selecionar o dispositivo basta utilizar a barra inferior do VSCode, caso esteva no Android Studio a mesma opção estará na barra superior
-![](_print/flutter_select_device.png)
+![](_prints/flutter_select_device.png)
 
 ## Icon
 Quando o ícone está ajustado ele fica perfeitamente centralizado no dispositivo sem as bordas brancas.
-![](_print/flutter_icone.png)  
+![](_prints/flutter_icone.png)  
 
 ## App
-![](_print/flutter_app.png)  
+![](_prints/flutter_app.png)  
