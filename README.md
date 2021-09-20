@@ -20,3 +20,14 @@ Um projeto em Flutter para estudo, apesar de ser simples diversos conceitos impo
   assets/images/logo.png - Imagem da tela principal;
   android/app/src/main/res - Ícone do aplicativo para Android;
   /ios/Runner/Assets.xcassets - Ícone do aplicativo para Ios;
+
+## Device
+Para selecionar o dispositivo basta utilizar a barra inferior do VSCode, caso esteva no Android Studio a mesma opção estará na barra superior
+![](_print/flutter_select_device.png)
+
+## Icon
+Quando o ícone está ajustado ele fica perfeitamente centralizado no dispositivo sem as bordas brancas.
+![](_print/flutter_icone.png)  
+
+## App
+![](_print/flutter_app.png)  
